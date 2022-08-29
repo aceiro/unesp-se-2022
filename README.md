@@ -18,12 +18,12 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 - [Parte 4]  - Gestão da Qualidade
 - [Parte 5]  - Gerenciamento de projeto de software
 - [Parte 6]  - Prova P1
-- [Parte 7]  - Domain-Driven Design (DDD) 
+- [Parte 7]  - Domain-Driven Design (DDD) & Design-Patterns
 - [Parte 8]  - EventStorming - Projeto MVP
-- [Parte 9]  - Team-First e Team building  
+- [Parte 9]  - Agilidade, Team-First e Team building  
 - [Parte 10] - Visão de Arquitetura
 - [Parte 11] - Visão de Arquitetura: Microserviços
-- [Parte 12] - Design-Patterns
-- [Parte 13] - Atividades de VV&T
-- [Parte 14] - Revisão e acompanhamento
-- [Parte 15] - Entrega do projeto Final  
+- [Parte 12] - Atividades de VV&T
+- [Parte 13] - Entrega do projeto Final
+- [Parte 14] - Revisão de notas
+- [Parte 15] - Fechamento do Semestre  

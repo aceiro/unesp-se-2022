@@ -12,8 +12,9 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 - [Github Actions](https://github.com/features/actions)
 
 ## Etapas
-- [Parte 1](https://github.com/aceiro/unesp-se-2022/docs/aula-01.pdf) - Introdução - Apresentação da disciplina (✅)
-- [Parte 2](https://github.com/aceiro/unesp-se-2022/docs/aula-02.pdf)  - Processo de Software (✅)
+https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-02.pdf
+- [Parte 1](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-01.pdf) - Introdução - Apresentação da disciplina (✅)
+- [Parte 2](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-02.pdf)  - Processo de Software (✅)
 - [Parte 3]  - Modelagem
 - [Parte 4]  - Gestão da Qualidade
 - [Parte 5]  - Gerenciamento de projeto de software

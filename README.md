@@ -14,16 +14,17 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 ## Etapas
 - [Parte 1](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-01.pdf) - Introdução - Apresentação da disciplina (✅)
 - [Parte 2](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-02.pdf)  - Processo de Software (✅)
-- [Parte 3]  - Modelagem
-- [Parte 4]  - Gestão da Qualidade
-- [Parte 5]  - Gerenciamento de projeto de software
-- [Parte 6]  - Prova P1
-- [Parte 7]  - Domain-Driven Design (DDD) 
-- [Parte 8]  - EventStorming - Projeto MVP
-- [Parte 9]  - Team-First e Team building  
-- [Parte 10] - Visão de Arquitetura
-- [Parte 11] - Visão de Arquitetura: Microserviços
-- [Parte 12] - Design-Patterns
-- [Parte 13] - Atividades de VV&T
-- [Parte 14] - Revisão e acompanhamento
-- [Parte 15] - Entrega do projeto Final  
+- [Parte 3](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-03-agile.pdf)  - Agilidade (✅)
+- [Parte 4](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-04.pdf)  - Gestão da Qualidade e Fatores Humanos (✅)
+- [Parte 5](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-04-atividade-01.pdf)  - Atividade T1 (✅)
+- [Parte 6](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-05.pdf)  - Engenharia de Software Experimental (✅)
+- [Parte 7]  - Prova P1
+- [Parte 8]  - Domain-Driven Design (DDD) 
+- [Parte 9]  - EventStorming - Projeto MVP
+- [Parte 10]  - Team-First e Team building  
+- [Parte 11] - Visão de Arquitetura
+- [Parte 12] - Visão de Arquitetura: Microserviços
+- [Parte 13] - Design-Patterns
+- [Parte 14] - Atividades de VV&T
+- [Parte 15] - Revisão e acompanhamento
+- [Parte 16] - Entrega do projeto Final  

@@ -28,4 +28,7 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 - [Parte 13](https://github.com/aceiro/unesp-se-2022/blob/main/docs/DDD_Reference_2015-03.pdf) - Design-Patterns/DDD (✅)
 - [Parte 14] - Atividades de VV&T (❌)
 - [Parte 15] - Revisão e acompanhamento
-- [Parte 16] - Entrega do projeto Final  
+- [Parte 16] - Entrega do projeto Final
+
+## MIRO
+- [Link](https://miro.com/app/board/uXjVP-vKzhs=/)

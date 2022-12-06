@@ -21,10 +21,10 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 - [Parte 7]  - Prova P1
 - [Parte 8](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-06.pdf)  -  Domain-Driven Design (DDD) (✅)
 - [Parte 9](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-07.pdf)  -  EventStorming - Projeto MVP & Team-First e Team building (✅)
-- 
+- [Projeto/MVP](https://github.com/aceiro/unesp-se-2022/blob/main/docs/projeto_unesp_final_v1.0.pdf)(✅)
 - [Parte 11](https://github.com/aceiro/architecture-ref-card) - Visão de Arquitetura (✅)
-- [Parte 12] - Visão de Arquitetura: Microserviços
-- [Parte 13] - Design-Patterns
+- [Parte 12](https://martinfowler.com/articles/microservices.html) - Visão de Arquitetura: Microserviços (✅)
+- [Parte 13](https://github.com/aceiro/unesp-se-2022/blob/main/docs/DDD_Reference_2015-03.pdf) - Design-Patterns/DDD
 - [Parte 14] - Atividades de VV&T (❌)
 - [Parte 15] - Revisão e acompanhamento
 - [Parte 16] - Entrega do projeto Final  

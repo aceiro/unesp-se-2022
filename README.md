@@ -5,7 +5,7 @@ Disciplina de Engenharia de Sofware.
 Projetar e desenvolver um sistema de software, avaliando a importância da utilização de uma metodologia no resultado final. O aluno deverá ser capaz de participar, cooperativamente, de equipes de Análise e de Projeto de Software, movitado a adotar boas práticas e normas técnicas de Engenharia de Software.
 
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas e sugeridas para o projeto
 - [jUnit](https://junit.org/junit5/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [MongoDB](https://wwww.mongodb.com/)

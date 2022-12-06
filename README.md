@@ -25,7 +25,7 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 - [MVP](https://medium.com/@luizmarcelino/mvp-o-que-%C3%A9-811909a0fa87) - Conceito (✅)
 - [Parte 11](https://github.com/aceiro/architecture-ref-card) - Visão de Arquitetura (✅)
 - [Parte 12](https://martinfowler.com/articles/microservices.html) - Visão de Arquitetura: Microserviços (✅)
-- [Parte 13](https://github.com/aceiro/unesp-se-2022/blob/main/docs/DDD_Reference_2015-03.pdf) - Design-Patterns/DDD
+- [Parte 13](https://github.com/aceiro/unesp-se-2022/blob/main/docs/DDD_Reference_2015-03.pdf) - Design-Patterns/DDD (✅)
 - [Parte 14] - Atividades de VV&T (❌)
 - [Parte 15] - Revisão e acompanhamento
 - [Parte 16] - Entrega do projeto Final  

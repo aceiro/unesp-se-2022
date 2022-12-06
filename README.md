@@ -10,6 +10,15 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [MongoDB](https://wwww.mongodb.com/)
 - [Github Actions](https://github.com/features/actions)
+- [DDD reference](https://www.domainlanguage.com/ddd/reference/)
+- [Markdown reference](https://www.markdownguide.org/basic-syntax/)
+- [Microservice](https://martinfowler.com/articles/microservices.html)
+- [Bonsai.io para Elasticsearch](https://app.bonsai.io/)
+- [ELK](https://medium.com/make-it-heady/what-and-why-ekl-stack-378e6c4765b9)
+- [Clean Arch](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Clean Arch & DDD](https://github.com/jbuget/nodejs-clean-architecture-app)
+- [Clean + API Basico - Exemplo 1](https://github.com/aceiro/typescript-example)
+- [Clean + Basico - Exemplo 2](https://github.com/gabriellimoni/2022-devpira/)
 
 ## Etapas
 - [Parte 1](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-01.pdf) - Introdução - Apresentação da disciplina (✅)

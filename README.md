@@ -19,12 +19,12 @@ Projetar e desenvolver um sistema de software, avaliando a importância da utili
 - [Parte 5](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-04-atividade-01.pdf)  - Atividade T1 (✅)
 - [Parte 6](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-05.pdf)  - Engenharia de Software Experimental (✅)
 - [Parte 7]  - Prova P1
-- [Parte 8]  - Domain-Driven Design (DDD) 
-- [Parte 9]  - EventStorming - Projeto MVP
-- [Parte 10]  - Team-First e Team building  
-- [Parte 11] - Visão de Arquitetura
+- [Parte 8](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-06.pdf)  -  Domain-Driven Design (DDD) (✅)
+- [Parte 9](https://github.com/aceiro/unesp-se-2022/blob/main/docs/aula-07.pdf)  -  EventStorming - Projeto MVP & Team-First e Team building (✅)
+- 
+- [Parte 11](https://github.com/aceiro/architecture-ref-card) - Visão de Arquitetura (✅)
 - [Parte 12] - Visão de Arquitetura: Microserviços
 - [Parte 13] - Design-Patterns
-- [Parte 14] - Atividades de VV&T
+- [Parte 14] - Atividades de VV&T (❌)
 - [Parte 15] - Revisão e acompanhamento
 - [Parte 16] - Entrega do projeto Final  
